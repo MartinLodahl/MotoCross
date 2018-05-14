@@ -92,8 +92,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 1081843755593664, guid: 0fc5d0a96a70542ae94b9288083c1711, type: 2}
-  whenSpawn: 10
-  oftenSpawn: 10
+  whenSpawn: 2
+  oftenSpawn: 2
 --- !u!212 &212077811121357032
 SpriteRenderer:
   m_ObjectHideFlags: 1

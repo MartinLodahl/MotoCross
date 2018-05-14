@@ -9,6 +9,7 @@ TagManager:
   - Plant
   - Zombi
   - bullet
+  - GameManager
   layers:
   - Default
   - TransparentFX
