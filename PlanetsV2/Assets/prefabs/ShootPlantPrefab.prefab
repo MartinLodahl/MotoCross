@@ -53,8 +53,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 1721987108878104, guid: 5b0e7cbd7a6d04c2090d4279b93b5d5a, type: 2}
-  whenSpawn: 0
-  oftenSpawn: 2
+  whenSpawn: 1
+  oftenSpawn: 4
 --- !u!212 &212588552465885098
 SpriteRenderer:
   m_ObjectHideFlags: 1
