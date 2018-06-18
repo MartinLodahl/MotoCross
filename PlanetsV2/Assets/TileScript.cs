@@ -17,12 +17,12 @@ public class TileScript : MonoBehaviour {
     private void OnMouseOver()
     {
         if(Input.GetMouseButtonDown(0)){
-            placeTower();
+            placePlant();
         }
        
     }
 
-    private void placeTower(){
+    private void placePlant(){
        GameObject gameManager = GameObject.Find("GameManager");
         GameObject PlantPrefab = gameManager.GetComponent<GameManager>().ClicketBtn.PlantPrefab;
 
